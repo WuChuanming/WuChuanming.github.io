@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>认识世界</title>
+    <link>http://wuchuanming.github.io/</link>
+    <description>Recent content on 认识世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jan 2021 15:28:58 +0800</lastBuildDate><atom:link href="http://wuchuanming.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>http://wuchuanming.github.io/posts/first/</link>
+      <pubDate>Sat, 23 Jan 2021 15:28:58 +0800</pubDate>
+      
+      <guid>http://wuchuanming.github.io/posts/first/</guid>
+      <description>测试 文章 </description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://wuchuanming.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wuchuanming.github.io/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+  </channel>
+</rss>

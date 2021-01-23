@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 认识世界</title>
+    <link>http://wuchuanming.github.io/posts/</link>
+    <description>Recent content in Posts on 认识世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Jan 2021 15:28:58 +0800</lastBuildDate><atom:link href="http://wuchuanming.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>http://wuchuanming.github.io/posts/first/</link>
+      <pubDate>Sat, 23 Jan 2021 15:28:58 +0800</pubDate>
+      
+      <guid>http://wuchuanming.github.io/posts/first/</guid>
+      <description>测试 文章 </description>
+    </item>
+    
+  </channel>
+</rss>
